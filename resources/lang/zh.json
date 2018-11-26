@@ -1,0 +1,7 @@
+{
+    "Hi there!" : "嗨，您好！",
+    "I hope this meets you well." : "我希望这能很好地满足你。",
+    "Let's talk about Localization in Laravel, trust me, it's an awesome topic. Notwithstanding, not many have come to realize this awesomeness." : "让我们谈谈Laravel中的本地化，相信我，这是一个很棒的话题。尽管如此，并没有多少人意识到这种可怕性。",
+    "Localization according to the dictionary, means adapting something to a fixed position or location. It therefore suffices to say that Laravel localization involves adapting the language used in the app to the given location of the user." : "根据字典进行本地化，意味着使某些东西适应固定的位置或位置。因此，足以说Laravel本地化涉及使应用程序中使用的语言适应用户的给定位置。",
+    "This might not make much sense to you but you've got no reason to worry. Nothing said here should be argued about because the idea is just to make up words for the purpose of testing this tutorial." : "这可能对你没有多大意义，但你没有理由担心。这里没有任何说法应该被讨论，因为这个想法只是为了测试本教程而构成单词。"
+}

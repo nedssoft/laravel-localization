@@ -1,0 +1,8 @@
+{   
+    "Hi there!" : "Salut!",
+    "I hope this meets you well." : "J'espère que cela vous rencontre bien.",
+    "Let's talk about Localization in Laravel, trust me, it's an awesome topic. Notwithstanding, not many have come to realize this awesomeness." : "Parlons de la localisation à Laravel, croyez-moi, c'est un sujet génial. Malgré cela, peu de personnes ont réalisé cette génialité.",
+    "Localization according to the dictionary, means adapting something to a fixed position or location. It therefore suffices to say that Laravel localization involves adapting the language used in the app to the given location of the user." : "La localisation selon le dictionnaire consiste à adapter quelque chose à une position ou à un emplacement fixe. Il suffit donc de dire que la localisation de Laravel implique l’adaptation de la langue utilisée dans l’application à la localisation donnée de l’utilisateur.",
+    "This might not make much sense to you but you've got no reason to worry. Nothing said here should be argued about because the idea is just to make up words for the purpose of testing this tutorial." : "Cela n'a peut-être pas beaucoup de sens pour vous, mais vous n'avez aucune raison de vous inquiéter. Rien de dit ici ne devrait être discuté car l’idée est simplement de créer des mots dans le but de tester ce tutoriel."
+    
+}
